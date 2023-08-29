@@ -1,2 +1,51 @@
 
 /* Your CSS Code here. */
+.item{
+	display:flex;
+	justify-content:space-between;
+	height:100%;
+	width:100vw;
+	flex-wrap:wrap;
+}
+.item-1{
+	height:75px;
+	width:75px;
+	border:1px solid black;
+	background-color:green;
+}
+.item-2{
+	height:75px;
+	width:75px;
+	border:1px solid black;
+	background-color:green;
+}
+.item-3{
+	height:75px;
+	width:75px;
+	border:1px solid black;
+	background-color:green;
+}
+.item-4{
+	height:75px;
+	width:75px;
+	border:1px solid black;
+	background-color:green;
+}
+.item-5{
+	height:75px;
+	width:75px;
+	border:1px solid black;
+	background-color:green;
+}
+.item-6{
+	height:75px;
+	width:75px;
+	border:1px solid black;
+	background-color:red;
+}
+.item-7{
+	height:75px;
+	width:75px;
+	border:1px solid black;
+	background-color:blue;
+}
